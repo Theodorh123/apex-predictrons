@@ -15,6 +15,10 @@ git clone https://github.com/Theodorh123/apex-predictrons.git
 Be sure to checkout the Development branch and push all your commits there.
 git pull
 git checkout Development
+
+To add and commit your changes, use
+git add .
+git commit -m "Commit message"
 git push
 ```
 
@@ -34,7 +38,7 @@ sudo npm install -g create-react-app (Mac/Linux users) or npm install -g create-
 
 ## Apex-Predictrons System UI
 ```shell
-cd path/to/frontend/ui
+cd path/to/frontend/src
 npm install
 ```
 
