@@ -1,0 +1,2 @@
+# apex-predictrons
+This project is an attempt to solve the problem of inadequacy of radiologists, as well as good radiological counsel in Ghana using an artificial intelligence system that leverages the wealth of experience of radiologists all over the world to provide insights into radiological examination. This solution focuses on a few pathologies of the knee. Thus, it seeks to detect as well as predict the occurrence of certain knee pathologies from xray data that is fed to it. 
